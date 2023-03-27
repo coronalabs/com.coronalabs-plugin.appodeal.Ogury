@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDOguryAdapter', },
-		frameworks = { 'OMSDK_Oguryco', 'OguryAds', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
